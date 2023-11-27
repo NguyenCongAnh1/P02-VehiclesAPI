@@ -63,6 +63,12 @@
 			<version>2.3.3</version> <!-- Chọn phiên bản phù hợp -->
 		</dependency>
 
+		<dependency>
+			<groupId>com.thoughtworks.xstream</groupId>
+			<artifactId>xstream</artifactId>
+			<version>1.4.13</version>
+		</dependency>
+
 	</dependencies>
 
 	<dependencyManagement>

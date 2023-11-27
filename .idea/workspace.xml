@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd8eba0f-1ea7-45c3-a76a-05538942e026" name="Changes" comment="" />
+    <list default="true" id="cd8eba0f-1ea7-45c3-a76a-05538942e026" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/P02-VehiclesAPI/eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/P02-VehiclesAPI/eureka/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,6 +182,7 @@
       <updated>1701003904620</updated>
       <workItem from="1701003905855" duration="3421000" />
       <workItem from="1701007376921" duration="1092000" />
+      <workItem from="1701065742146" duration="177000" />
     </task>
     <servers />
   </component>
